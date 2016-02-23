@@ -75,4 +75,10 @@
             <version>18.0</version>
         </dependency>
     </dependencies>
+    <scm>
+        <connection>scm:git:git@github.com:tenjohokwen/thready.git</connection>
+        <url>scm:git:git@github.com:tenjohokwen/thready.git</url>
+        <developerConnection>scm:git:git@github.com:tenjohokwen/thready.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 </project>
